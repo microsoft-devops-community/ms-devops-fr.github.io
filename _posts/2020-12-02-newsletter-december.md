@@ -2,9 +2,9 @@
 layout: post
 title: Newsletter Microsoft devops Décembre 2020
 categories: [newsletter]
-excerpt: Bonjour, voici l'actualité Devops pour ce mois de Novembre. Alors comme vous êtes peut-être passés à côté de certaines annonces, nous les avons rassemblées ici. 
+excerpt: Bonjour, voici l'actualité Devops pour ce mois de Novembre. Alors comme vous êtes peut-être passés à côté de certaines annonces, nous les avons rassemblé ici. 
 ---
-Bonjour, voici l'actualité Devops pour ce mois de Novembre. Alors comme vous êtes peut-être passés à côté de certaines annonces, nous les avons rassemblées ici. 
+Bonjour, voici l'actualité Devops pour ce mois de Novembre. Alors comme vous êtes peut-être passés à côté de certaines annonces, nous les avons rassemblé ici. 
 
 ## Tools
 
