@@ -7,7 +7,7 @@ permalink: /about/
 
 ### French Version
 
-Via ce blog nous souhaitons rassembler et partager du contenu pertinent liés à la culture DevOps et issus de différentes sources et canaux. Dans la Newsletter DevOps que nous publierons mensuellement, vous trouverez des informations en relation avec le monde DevOps, provenant de la communauté Open Source, de Microsoft, ou d'éditeurs tiers.
+Via ce blog nous souhaitons rassembler et partager du contenu pertinent lié à la culture DevOps et issu de différents sources et canaux. Dans la Newsletter DevOps que nous publierons mensuellement, vous trouverez des informations en relation avec le monde DevOps, provenant de la communauté Open Source, de Microsoft, ou d'éditeurs tiers.
 
 ### English Version
 
