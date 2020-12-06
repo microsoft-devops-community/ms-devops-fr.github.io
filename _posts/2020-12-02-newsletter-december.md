@@ -4,7 +4,7 @@ title: Newsletter Microsoft DevOps Décembre 2020
 categories: [newsletter]
 excerpt: Bonjour, voici l'actualité Devops pour ce mois de Novembre. Alors comme vous êtes peut-être passés à côté de certaines annonces, nous les avons rassemblés dans cette newsletter. Au menu, des outils, des trainings et quelques hacks bien pensés sur Azure Devops.
 ---
-Bonjour, voici l'actualité Devops pour ce mois de Novembre. Alors comme vous êtes peut-être passés à côté de certaines annonces, nous les avons rassemblés ici. 
+Bonjour, voici l’actualité consacrée à la culture DevOps pour ce mois de Novembre. Alors comme vous êtes peut-être passés à côté de certaines annonces, nous les avons rassemblés ici. L’objectif est de vous fournir en une seule page l’ensemble de l’actualité récente via une agrégation de différents site Internet. Bonne lecture !
 
 ## Tools
 
@@ -38,6 +38,8 @@ These posts talk about some common security pitfalls (and resolution) when setti
 ## Upcoming event
 
 - [Continuous Delivery in Azure DevOps](https://info.microsoft.com/FR-DevOps-WBNR-FY21-12Dec-08-ContinuousdeliveryinAzureDevOps-SRDEM51951_LP01Registration-ForminBody.html) Mardi 8 Décembre de 9h30 à 12h30 (GMT+01:00) Brussels, Copenhagen, Madrid, Paris / Au programme : facteurs clés de succès d’une méthodologie DevOps, outils à votre disposition sur Azure (Microsoft et Open Source) et mise en place de ces derniers dans votre environnement de travail actuel avec une exécution guidée.
+
+- [Github Universe 2020](https://githubuniverse.com/) December 8–10, 2020 9:00am–1:30pm PST - Join GitHub team leaders, industry icons, and artists inspired by code for three days of live interactive sessions as we explore the future of software for developers, enterprises, and students.
 
 ## Latest news from popular Blog 
 
