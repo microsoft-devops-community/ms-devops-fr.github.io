@@ -2,7 +2,7 @@
 layout: post
 title: Newsletter Microsoft DevOps Février 2021
 categories: [newsletter]
-excerpt: Hello, this is the DevOps culture news. Since you might have missed some announcements, we've collected them here. The aim is to provide you with all the latest news on one page via an aggregation ...
+excerpt: Hello, l'actualité Devops de ce mois-ci tourne autour de Azure Devops, Github Actions et aussi quelques réflexions autour des architectures microservices. Vous retrouverez aussi l'aggregation des derniers articles des plateformes MS. Bonne lecture.
 ---
 
 ## Azure Devops
