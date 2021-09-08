@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsletter Microsoft DevOps Février 2021
+title: Newsletter
 categories: [newsletter]
 excerpt: Hello, l'actualité Devops de ce mois-ci tourne autour de Azure Devops, Github Actions et aussi quelques réflexions autour des architectures microservices. Vous retrouverez aussi l'aggregation des derniers articles des plateformes MS. Bonne lecture.
 ---
