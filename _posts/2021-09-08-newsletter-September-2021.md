@@ -3,7 +3,9 @@ layout: post
 title: Newsletter 
 categories: [newsletter]
 excerpt: Hello, l'actualité Devops de ce mois-ci tourne autour de Azure Devops, GitHub et pleins d'autres sujets. Vous retrouverez aussi l'aggregation des derniers articles des plateformes MS. Bonne lecture.
----## MS DEV BLOG DEVOPS 
+---
+
+## MS DEV BLOG DEVOPS 
 
 <!-- DEVBLOGDEVOPS:START -->
 - [AzureFunBytes Episode 53 – Intro to @PulumiCorp with @mattstratton](https://devblogs.microsoft.com/devops/azurefunbytes-episode-53-intro-to-pulumicorp-with-mattstratton/)
