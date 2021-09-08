@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Newsletter Microsoft DevOps Janvier 2021
+title: Newsletter
 categories: [newsletter]
 excerpt: Hello, this is the DevOps culture news. Since you might have missed some announcements, we've collected them here. The aim is to provide you with all the latest news on one page via an aggregation ...
 ---
